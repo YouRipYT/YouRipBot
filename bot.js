@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const prefix = "?"
 var per = ''
 
-client.login('NTMxMDQ2NTg2MTE0MTEzNTQ2.DxIwJw.q8cad4Gr0c-AyloTFX24tSfgQqg');
+client.login('NTMxMDQ2NTg2MTE0MTEzNTQ2.DxTNpA.7VR_j7oRPT4B0DuSnYJbTeIDXbM');
 
 
 client.on('ready', () => {
